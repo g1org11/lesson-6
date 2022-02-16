@@ -88,12 +88,9 @@ body{background-color: #F7F7F7;
 .conteiner{
     max-width: 1440px;
     width: 100%;
-<<<<<<< Updated upstream
-   
-=======
     height: 9748px;
     margin: 0 auto;
->>>>>>> Stashed changes
+
 }
 .box {
     display: inline-block;
@@ -214,6 +211,8 @@ body{background-color: #F7F7F7;
     display: inline-block;
 }
 .heading{
+    width: 232px;
+    height: 36px;
     display: inline-block;
     margin-top: 90px;
     margin-bottom: 30px;
@@ -230,7 +229,22 @@ body{background-color: #F7F7F7;
     display: inline-block;
 }
 .heading1{
+    width: 169px;
+    height: 36px;
+    margin-top: 90px;
+    margin-bottom: 30px;
+    margin-left:90px;
+    margin-right:136px;
     display: inline-block;
+}
+.context1{
+    width: 216px;
+    height: 133px;
+    display: inline-block;
+    margin-top: ;
+    margin-left: ;
+    margin-right: ;
+    margin-bottom: ;
 
 }
 .heading2{
