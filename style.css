@@ -21,6 +21,7 @@ body{background-color: #F7F7F7;
     line-height: 18px;
     padding-left: 850px;
     color: black;
+    font-family: 'Roboto';
   
 }
 .project{
@@ -30,7 +31,7 @@ body{background-color: #F7F7F7;
     line-height: 18px;
     margin-left: 59px;
     color: black;
-   
+    font-family: 'Roboto';
 }
 .uquipe{
     text-decoration: none;
@@ -39,6 +40,7 @@ body{background-color: #F7F7F7;
     line-height: 18px;
     margin-left: 59px;
     color: black;
+    font-family: 'Roboto';
     
 }
 .contact{
@@ -48,6 +50,7 @@ body{background-color: #F7F7F7;
     line-height: 18px;
     margin-left: 59px;
     color:black;
+    font-family: 'Roboto';
      
 }
 
@@ -73,19 +76,23 @@ body{background-color: #F7F7F7;
     height: 900px;
     width: 100%;
     
+    
 }
 .header-block{
     position: relative;
 }
 .title h2{
     position: absolute;
-   margin-left: 180px;
+   left: 180px;
    bottom:  45px;
     width: 233px;
     height: 43px;
     font-size: 30px;
     line-height: 43px;
     color: #0f0f0f;
+}
+.title-block{
+    margin-left: 200px;
 }
 .conteiner{
     max-width: 1440px;
@@ -137,6 +144,7 @@ body{background-color: #F7F7F7;
     color: #434343;
     margin-left: 180px;
     margin-top: 72px;
+     font-family: 'Open Sans';
 }
 
 .text1{
@@ -148,6 +156,7 @@ body{background-color: #F7F7F7;
     margin-left: 180px;
     margin-top: 64px;
     display: inline-block;
+    font-family: 'Open Sans';
 
 }
 .number{
@@ -202,34 +211,17 @@ body{background-color: #F7F7F7;
     background-color: #FFFFFF;
     width: 395px;
     height: 372px;
-    vertical-align: auto;
-    margin-left: 30px;
+  vertical-align: top;
+    display: inline-block;
     margin-top: 120px;
-  display: inline-block;
+    margin-left: 30px;
     
    
-}
-.white-box2{
-    background-color: #FFFFFF;
-    width: 835px;
-    height: 438px;
-    
-    display: inline-block;
-}
-.white-box3{
-    background-color: #FFFFFF;
-    width: 395px;
-    height: 438px;
-    
-    border-radius: 6px;
-    display: inline-block;
-
 }
 .heading1{
     width: 169px;
     height: 36px;
     margin-top: 90px;
-    
     margin-left:90px;
     
     display: inline-block;
@@ -238,27 +230,114 @@ body{background-color: #F7F7F7;
     width: 216px;
     height: 133px;
     display: inline-block;
-   
-
+    margin-left: 90px;
+    margin-top: 30px;
+    font-family: 'Open Sans';
 }
-.heading2{
+
+
+
+
+.white-box2{
+    background-color: #FFFFFF;
+    width: 835px;
+    height: 438px;
     display: inline-block;
-}
-.heading3{
-   display: inline-block;
-}
-.list1{
-
-
+    margin-top: 30px;
+    margin-left: 90px;
+} 
+.heading2{
+    margin-top: 90px;
+    margin-left: 90px;
+    font-size: 25px;
+    line-height: 30px;
+    color: #262626;
+}.list1{
     width: 44px;
     height: 12px;
+    font-size: 11px;
+    line-height: 20px;
+    display: inline-block;
+    color: #000000;
+    margin-top: 45px;
+    margin-left: 90px;
+
 
 }
+.list2{
+    width: 118px;
+    height: 18px;
+    font-size: 12px;
+    line-height: 33px;
+    display: inline-block;
+    color:#262626;
+    margin-left: 28px;
 
-img{
+}
+.list3{
+    border: 1px solid #00000000;
+    font-size: 12px;
+    line-height: 33px;
+    display: inline-block;
+    color:#262626;
+    margin-left: 46px;
+}
+.context2{
+    width: 641px;
+    height: 93px;
+    font-size: 18px;
+    line-height: 33.3px;
+    margin-left: 90px;
+    margin-top: 70px;
+    color: #434343;
+}
+.white-box3{
+    background-color: #FFFFFF;
+    width: 395px;
+    height: 438px;
+    vertical-align: top;
+    border-radius: 6px;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+.heading3{
+    margin-top: 90px;
+    margin-left: 92px;
+    font-size: 25px;
+    line-height: 30px;
+    color: #262626;
+}
+
+.img-content img{
     width: 33px;
     height: 33px;
+    margin-top: 38px;
+    
+   
 }
+
+.picture-content img{
+    width: 33px;
+    height: 33px;
+    margin-top: 27px;
+}
+.photo{
+    margin-left: 92px;
+}
+.photo1{
+    margin-left: 27px;
+}
+.pict{
+    margin-left: 92px;
+
+}
+.pict1{
+    margin-left: 27px;
+}
+
+
 
 
 
