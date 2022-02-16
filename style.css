@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{background-color: #F7F7F7;
+
+}
+
 .vision{
     text-decoration: none;
     width: 122px;
@@ -154,6 +158,11 @@
     display: inline-block;
     margin-left: 90px;
 
+}
+.white-box{
+    background-color: #FFFFFF;
+    width: 835px;
+    height: 372px;
 }
 
 
