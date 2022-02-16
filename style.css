@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.vision{
+    text-decoration: none;
+    width: 122px;
+    font-size: 12px;
+    line-height: 18px;
+    padding-left: 850px;
+    color: #FFFFFF;
+  
+}
+.project{
+    text-decoration: none;
+    width: 56px;
+    font-size: 12px;
+    line-height: 18px;
+    margin-left: 59px;
+    color: #FFFFFF;
+   
+}
+.uquipe{
+    text-decoration: none;
+    width: 49px;
+    font-size: 12px;
+    line-height: 18px;
+    margin-left: 59px;
+    color: #FFFFFF;
+    
+}
+.contact{
+    text-decoration: none;
+    width: 62px;
+    font-size: 12px;
+    line-height: 18px;
+    margin-left: 59px;
+    color: #FFFFFF;
+     
+}
+
+
+.header-block{
+    position: relative;
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+.list-box {
+    position: absolute;
+    margin-top: 20px;
+    display: inline-block;
+    
+   
+}
+.list-box li{
+    display: inline-block;
+   
+
+    
+}
+.header-block img{
+    height: 900px;
+    width: 100%;
+    margin: 20 auto;
+
+}
+.title h2{
+    position: absolute;
+    left: 180px;
+    bottom: 45px;
+    width: 233px;
+    height: 43px;
+    font-size: 30px;
+    line-height: 43px;
+    color: #FFFFFF;
+}
+.conteiner{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+.box {
+    display: inline-block;
+}
+.box1 {
+    display: inline-block;
+}
+.title1{
+    width: 79px;
+    height: 12px;
+    margin-left: 180px;
+    margin-top: 55px;
+    font-size: 11px;
+    line-height: 20px;
+    color: #262626;
+    margin-right: 46px;
+}
+.title2{
+    width: 56px;
+    height: 18px;
+    font-size: 12px;
+    line-height: 33px;
+}
+.text{
+    width: 616px;
+    height: 82px;
+    font-size: 32.7px;
+    line-height: 48.6px;
+    color: #262626;
+    margin-left: 180px;
+    margin-top: 75px;
+
+}
+.text-block{
+    width: 1016px;
+    height: 157px;
+    font-size: 25px;
+    line-height: 44px;
+    color: #434343;
+    margin-left: 180px;
+    margin-top: 72px;
+}
+
+.text1{
+    width: 158px;
+    height: 20px;
+    font-size: 14px;
+    line-height: 33.3px;
+    color: #959595;
+    margin-left: 180px;
+    margin-top: 64px;
+    display: inline-block;
+
+}
+.number{
+    width: 44px;
+    height: 20px;
+    font-size: 18px;
+    line-height: 39.3px;
+    color: #959595;
+    display: inline-block;
+    margin-left: 90px;
+}
+.address{
+    width: 285px;
+    height: 20px;
+    font-size: 18px;
+    line-height: 39.3px;
+    color: #959595;
+    display: inline-block;
+    margin-left: 90px;
+
+}
+
+
+
+
+
+
+
+
+
